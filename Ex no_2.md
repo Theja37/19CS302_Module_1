@@ -29,6 +29,5 @@ return 0;
 ## Output:
 ![image](https://github.com/user-attachments/assets/cc24c097-29e5-49e3-ae78-c79c2e60c118)
 
-
 ## Result:
 Thus the program was executed and the output was verified successfully.
